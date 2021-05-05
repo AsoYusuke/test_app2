@@ -22,7 +22,7 @@
 
 ・テーブル定義書　https://docs.google.com/spreadsheets/d/1_c9rTEtkTiUkQE1LyaEGVZ8maYY1cpWQTCmMsmP3DU0/edit#gid=1974996913　（未完成）
 
-・ER図 https://app.diagrams.net/#G1j3RN2IqG6nGythYaW_mROnumMsSp7swr
+・ER図 https://app.diagrams.net/#G1j3RN2IqG6nGythYaW_mROnumMsSp7swr　（完成）
 
 ## チャレンジ要素一覧
 https://docs.google.com/spreadsheets/d/18sJrflPbpHnkF22NqgNnk_BZf_ZgN5K7oLR2KlN7Zbs/edit#gid=1569478597
