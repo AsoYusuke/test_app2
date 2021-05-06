@@ -16,13 +16,13 @@
 ・何か面白い情報を手に入れた時や、身の回りに事件、プチ事件が起きた時
 
 ## 設計書
-・アプリケーション設計書 （未完成）
+・アプリケーション設計書 https://docs.google.com/spreadsheets/d/1DGiSyqa8Sp4ewmHcjy9tQGhrsbn6Mij78qbWR12VOQo/edit#gid=1111752204
 
-・ワイヤーフレーム　https://app.diagrams.net/#G1XTQsOMzbB4hFjcRdYJYSN3cZMmdnQMw6　（未完成）
+・ワイヤーフレーム　https://app.diagrams.net/#G1XTQsOMzbB4hFjcRdYJYSN3cZMmdnQMw6　
 
-・テーブル定義書　https://docs.google.com/spreadsheets/d/1_c9rTEtkTiUkQE1LyaEGVZ8maYY1cpWQTCmMsmP3DU0/edit#gid=1974996913　（未完成）
+・テーブル定義書　https://docs.google.com/spreadsheets/d/1_c9rTEtkTiUkQE1LyaEGVZ8maYY1cpWQTCmMsmP3DU0/edit#gid=1974996913　
 
-・ER図 https://app.diagrams.net/#G1j3RN2IqG6nGythYaW_mROnumMsSp7swr　（完成）
+・ER図 https://app.diagrams.net/#G1j3RN2IqG6nGythYaW_mROnumMsSp7swr　
 
 ## チャレンジ要素一覧
 https://docs.google.com/spreadsheets/d/18sJrflPbpHnkF22NqgNnk_BZf_ZgN5K7oLR2KlN7Zbs/edit#gid=1569478597
